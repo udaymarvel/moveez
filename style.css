@@ -1,0 +1,12 @@
+div.images{
+    width:200px;
+    margin:10px;
+    padding:0px;
+    float:left;
+    border:1.5px solid black;
+    border-width:200;
+    border-height:300;
+}
+div.desc{
+    padding:5px;
+}
